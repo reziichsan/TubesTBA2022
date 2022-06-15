@@ -1,0 +1,3 @@
+1. pada baris ke 4, anda dapat mengubah isi sentence atau membiarkan isinya seperti ini.
+2. run programnya. program akan mencek perkata, jika kata itu ada pada daftar symbol terminal maka mengeluarkan output 'valid' dan jika tidak maka mengeluarkan output 'error'.
+3. jika semua kata pada sentece ada pada daftar symbol terminal maka akan mengeluarkan output 'semua token diinput: isi sentence, valid'
